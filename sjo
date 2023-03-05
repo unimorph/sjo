@@ -287,7 +287,7 @@
 ᠣᠮᠪᡞ	ᠣᠮᠪᡞ	V;ACT;FIN;IND;PRS
 ᠣᠮᠪᡞ	ᠣᠮᠪᡞᡠ	V;ACT;FIN;IND;PRS
 ᠣᠮᠪᡞ	ᠣᡪᠣᠷᠠᡣᡡᠨ	V;ACT;FIN;IND;NEG;PRS
-ᠣᠮᠪᡞ	ᠣᡪᠣᠷᠠᡥᡡ	V;ACT;FIN;IND;PRS;SBJV
+ᠣᠮᠪᡞ	ᠣᡪᠣᠷᠠᡥᡡ	V;ACT;FIN;PRS;SBJV
 ᠣᠮᠪᡞ	ᠣᡥᠣᠪᡞ	V;ACT;FIN;IND;PST
 ᠣᠮᠪᡞ	ᠣᡨᠣᠯᠣ	V.CVB
 ᠣᠮᠪᡞ	ᠣᡣᡞᠨᡞ	V;ACT;FIN;IMP;PRS
@@ -629,7 +629,7 @@
 ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝᡥᡝᡣᡡ	V;ACT;FIN;IND;NEG;PST
 ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	V;ACT;FIN;IND;PRS
 ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝᠷᠠᡣᡡᠴᡞ	V.CVB;IPFV;NEG
-ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝᠷᠠᡣᡡᠴᡞ	V;ACT;COND;FIN;IND;NEG;PRS
+ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝᠷᠠᡣᡡᠴᡞ	V;ACT;COND;FIN;NEG;PRS
 ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝ	V.PTCP;IPFV
 ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	ᠪᡝᡩᡝᠷᡝᡥᡝ	V.PTCP;PFV
 ᠪᡞ	ᠪᡞ	PRO;1;SG
@@ -645,10 +645,9 @@
 ᠪᡞᠮᠪᡞ	ᠪᡞᡥᡝ	AUX;FIN;IND;PST
 ᠪᡞᠮᠪᡞ	ᠪᡞᠰᡞᠷᡝ	V.PTCP;IPFV
 ᠪᡞᠮᠪᡞ	ᠪᡞ	V;ACT;FIN;IND;PRS
-ᠪᡞᠮᠪᡞ	ᠪᡞᠴᡞ	V;ACT;COND;FIN;IND;PRS
-ᠪᡞᠮᠪᡞ	ᠪᡞᠴᡞ	V;ACT;COND;FIN;IND
+ᠪᡞᠮᠪᡞ	ᠪᡞᠴᡞ	V;ACT;COND;FIN;PRS
 ᠪᡞᠮᠪᡞ	ᠪᡞ	V;ACT
-ᠪᡞᠮᠪᡞ	ᠪᡞᠴᡞᠪᡝ	V;ACT;COND;FIN;IND
+ᠪᡞᠮᠪᡞ	ᠪᡞᠴᡞᠪᡝ	V;ACT;COND;FIN
 ᠪᡞᠮᠪᡞ	ᠪᡞᠨᡞ	V;ACT;FIN;IND
 ᠪᡞᠮᠪᡞ	ᠪᡞᡠ	V;ACT;FIN;IND
 ᠪᡞᠮᠪᡞ	ᠪᡞᠴᡞ	V.CVB
@@ -795,7 +794,7 @@
 ᠮᡠᡨᡝᠨ	ᠮᡠᡨᡝᠨ	N;NOM;SG
 ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᡥᡝᡣᡡ	V;ACT;FIN;IND;NEG;PST
 ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠷᠠᡣᡡ	V.PTCP;IPFV;NEG
-ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠷᠠᡣᡡ	V;ACT;FIN;IND;NEG;PRS;SBJV
+ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠷᠠᡣᡡ	V;ACT;FIN;NEG;PRS;SBJV
 ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠷᡝᡞ	V;ACT
 ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠷᡝᡢᡤᡝ	V.MSDR;IPFV
 ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠮᠪᡞ	V;ACT;FIN;IND;PRS
@@ -864,7 +863,7 @@
 ᠰᠠᠪᡞᡢᡤᠠ	ᠰᠠᠪᡞᡢᡤᠠ	ADJ
 ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᠷᠠᡣᡡ	V.PTCP;IPFV;NEG
 ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᡥᠠᡣᡡ	V;ACT;FIN;IND;NEG;PST
-ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᠴᡞ	V;ACT;COND;FIN;IND;PRS
+ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᠴᡞ	V;ACT;COND;FIN;PRS
 ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᠮᠪᡞᡠ	V;ACT;FIN;IND;PRS
 ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᡥᠠᡠ	V;ACT;FIN;IND;PST
 ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᡥᠠᡣᡡᠨ	V;ACT;FIN;IND;NEG;PST
@@ -1162,7 +1161,7 @@
 ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠮᡝ	V.CVB;IPFV
 ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᡣᡞᠨᡞ	V;ACT;FIN;IMP;PRS
 ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᡣᡞ	V;ACT;FIN;IMP;PRS
-ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠴᡞ	V;ACT;COND;FIN;IND;PRS
+ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠴᡞ	V;ACT;COND;FIN;PRS
 ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠮᠪᡞᡠ	V;ACT;FIN;IND;PRS
 ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠷᠠᡣᡡᠨ	V;ACT;FIN;IND;NEG;PRS
 ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᡥᠠᡣᡡᠨ	V;ACT;FIN;IND;NEG;PST
@@ -1556,7 +1555,7 @@
 ᡞᠴᡞ	ᡞᠴᡞ	N;NOM;SG
 ᡞᠴᡞ	ᡞᠴᡞ	ADP
 ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	V;ACT;FIN;IND;PRS
-ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠴᡞ	V;ACT;COND;FIN;IND;PRS
+ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠴᡞ	V;ACT;COND;FIN;PRS
 ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠷᠠᡢᡤᡝ	V.MSDR;IPFV
 ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠮᡝ	V.CVB;IPFV
 ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠷᠠ	V;ACT;FIN;IMP;PRS
@@ -1855,7 +1854,7 @@
 ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᡥᡝᡣᡡ	V;ACT;FIN;IND;NEG;PST
 ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᡣᡞᠨᡞ	V;ACT;FIN;IMP
 ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᡣᡞ	V;ACT;FIN;IMP;PRS
-ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᠴᡞ	V;ACT;COND;FIN;IND;PRS
+ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᠴᡞ	V;ACT;COND;FIN;PRS
 ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᡥᡝᡠ	V;ACT;FIN;IND;PST
 ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᠷᠠᡣᡡᠨ	V;ACT;FIN;IND;NEG;PRS
 ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᡥᡝᡣᡡᠨ	V;ACT;FIN;IND;NEG;PST
@@ -1915,7 +1914,7 @@
 ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᡥᡝ	V.PTCP;PFV
 ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᠷᠠᡣᡡ	V.PTCP;IPFV;NEG
 ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᠷᡝ	V.PTCP;IPFV
-ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᠴᡞ	V;ACT;COND;FIN;IND;PRS
+ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᠴᡞ	V;ACT;COND;FIN;PRS
 ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ	V.MSDR;IPFV
 ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᠴᡞ	V.CVB
 ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	ᡤᡞᠰᡠᠷᡝᠷᡝᡢᡤᡝ	V.MSDR;IPFV
@@ -2112,7 +2111,7 @@
 ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᠮᡝ	V.CVB;IPFV
 ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᡥᠠ	V.PTCP;PFV
 ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠ	V;ACT;FIN;IMP;PRS
-ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᠴᡞᠪᡝ	V;ACT;COND;FIN;IND;PRS
+ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᠴᡞᠪᡝ	V;ACT;COND;FIN;PRS
 ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᠷᠠᠯᠠᠮᡝ	V.CVB;IPFV
 ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᠮᠠᡥᠠᠪᡞ	V;ACT;FIN;IND;PROG;PRS
 ᡥᡡᠯᠠᠮᠪᡞ	ᡥᡡᠯᠠᡥᠠᡣᡡ	V.PTCP;NEG;PFV
@@ -2223,7 +2222,7 @@
 ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠮᠠᡥᠠᠪᡞ	V;ACT;FIN;IND;PROG;PRS
 ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠮᠪᡞ	V;ACT;FIN;IND;PRS
 ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞ	V;ACT;FIN;IMP;PRS
-ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠴᡞ	V;ACT;COND;FIN;IND;PRS
+ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠴᡞ	V;ACT;COND;FIN;PRS
 ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠮᠠᡥᠠᡣᡡ	V;ACT;FIN;IND;NEG;PROG
 ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠴᡞᠨᠠ	V;ACT;FIN;IMP;PRS
 ᡨᠠᠴᡞᠮᠪᡞ	ᡨᠠᠴᡞᠴᡞ	V.CVB
@@ -2372,7 +2371,7 @@
 ᡨᡝᠮᡧᡝᠨᡩᡠᠮᠪᡞ	ᡨᡝᠮᡧᡝᠨᡩᡠᡣᡞ	V;ACT;FIN;IMP;PRS
 ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRO;3;PL
 ᡨᡝᠰᡝ	ᡨᡝᠰᡝᡞ	PRO;3;GEN;PL
-ᡨᡝᠰᡠ	ᡨᡝᠰᡠ	PRO;DIST
+ᡨᡝᠰᡠ	ᡨᡝᠰᡠ	PRO;LGSPEC01
 ᡨᡝᠰᡠᠮᠪᡞ	ᡨᡝᠰᡠᠮᠪᡞ	V;ACT;FIN;IND;PRS
 ᡨᡝᠰᡠᠮᠪᡞ	ᡨᡝᠰᡠᡨᡝᠯᡝ	V.CVB
 ᡨᡝᠰᡠᡨᡝᠯᡝ	ᡨᡝᠰᡠᡨᡝᠯᡝ	ADJ
@@ -2382,16 +2381,16 @@
 ᡨᡝᠶᡝᠮᠪᡞ	ᡨᡝᠶᡝᠷᠠᡣᡡ	V;ACT;FIN;IND;NEG;PRS
 ᡨᡝᠷᠠᠯᡞ	ᡨᡝᠷᠠᠯᡞ	ADV
 ᡨᡝᠷᠠᠯᡞᡢᡤᡝ	ᡨᡝᠷᠠᠯᡞᡢᡤᡝ	ADV
-ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET;DIST
+ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET;LGSPEC01
 ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRO;3;SG
-ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRO;DIST
+ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRO;LGSPEC01
 ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	DET
 ᡨᡝᠷᡝ	ᡨᡝᠷᡝᡞ	PRO;3;GEN;SG
-ᡨᡝᠷᡝ	ᡨᡝᠷᡝᡞ	PRO;DIST;GEN;SG
+ᡨᡝᠷᡝ	ᡨᡝᠷᡝᡞ	PRO;LGSPEC01;GEN;SG
 ᡨᡝᠷᡝ	ᡨᡝᠷᡝᡠ	PRO;3;SG
-ᡨᡝᠷᡝ	ᡨᡝᠷᡝᠪᡝ	PRO;ACC;DIST;SG
-ᡨᡝᠷᡝ	ᡨᡝᠷᡝᡞ	PRO;DIST;GEN
-ᡨᡝᠷᡝᠪᡝ	ᡨᡝᠷᡝᠪᡝ	DET;ACC;DIST;SG
+ᡨᡝᠷᡝ	ᡨᡝᠷᡝᠪᡝ	PRO;ACC;LGSPEC01;SG
+ᡨᡝᠷᡝ	ᡨᡝᠷᡝᡞ	PRO;LGSPEC01;GEN
+ᡨᡝᠷᡝᠪᡝ	ᡨᡝᠷᡝᠪᡝ	DET;ACC;LGSPEC01;SG
 ᡨᡝᠷᡣᡞᠨ	ᡨᡝᠷᡣᡞᠨ	N;NOM;SG
 ᡨᡝᡞᠯᡝ	ᡨᡝᡞᠯᡝ	ADP
 ᡨᡝᡞᠰᡠ	ᡨᡝᡞᠰᡠ	N;NOM;SG
